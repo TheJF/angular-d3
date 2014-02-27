@@ -24,7 +24,7 @@ yet doing complex customizable things should be possible.
 If you have ideas and are interested in lending a hand, please open an issue,
 submit a pull request or just ping me
 [@chrismnicola](https://twitter.com/chrismnicola). This could be the beginning
-of beautiful friendship.
+of a beautiful friendship.
 
 ## Current Directives
 
@@ -38,7 +38,7 @@ of beautiful friendship.
 - d3-line - Defines a line graph
 - d3-bars - Defines a set of bars for a bar chart
 
-The directives are meant to be used to compost charts like so:
+The directives are meant to be used to compose charts like so:
 
 ```html
   <d3-data src="data/data.csv" data="line" columns="year, savings, total, optimal"></d3-data>
